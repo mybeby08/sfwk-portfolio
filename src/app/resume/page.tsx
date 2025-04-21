@@ -14,7 +14,6 @@ import {
   FaJs,
   FaReact,
   FaNodeJs,
-  FaGitAlt,
   FaIdBadge,
 } from "react-icons/fa";
 import {
@@ -125,6 +124,10 @@ const Page = () => {
       {
         icon: <FaCss3 />,
         name: "CSS3",
+      },
+      {
+        icon: <SiTailwindcss />,
+        name: "TailwindCSS",
       },
       {
         icon: <FaJs />,
