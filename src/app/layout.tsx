@@ -4,11 +4,6 @@ import "./globals.css";
 import { Header } from "@/components/Header";
 import { Transition } from "@/components/Transition";
 import { Stairs } from "@/components/Stairs";
-const jetBrainsMono = JetBrains_Mono({
-  subsets: ["latin"],
-  variable: "--font-jetbrainsMono",
-  weight: ["100", "200", "300", "400", "500", "600", "700"],
-});
 const poppins = Poppins({
   subsets: ["latin"],
   variable: "--font-poppins",
