@@ -1,0 +1,12 @@
+{
+  "extends": "next/core-web-vitals",
+  "rules": {
+    "react/no-unescaped-entities": "off",
+    "@typescript-eslint/quotes": "off",
+    "no-unused-vars": "warn",
+    "no-useless-escape": "off",
+    "allowTemplateLiterals": "off",
+    "avoid-escape": "off",
+    "quotes": [0]
+  }
+}
